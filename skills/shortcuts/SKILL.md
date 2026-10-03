@@ -1,5 +1,5 @@
 ---
-name: macos-shortcuts
+name: shortcuts
 description: Manage and interact with macOS Shortcuts. Use this skill when the user wants to list available shortcuts, view a shortcut in the Shortcuts app, or run a shortcut. Supports running shortcuts with or without input parameters.
 ---
 

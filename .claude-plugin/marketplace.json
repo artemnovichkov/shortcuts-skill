@@ -1,0 +1,14 @@
+{
+  "name": "shortcuts-skill",
+  "description": "macOS Shortcuts skill for Claude Code.",
+  "owner": {
+    "name": "Artem Novichkov"
+  },
+  "plugins": [
+    {
+      "name": "shortcuts",
+      "source": "./",
+      "description": "List, view, and run macOS Shortcuts from Claude Code."
+    }
+  ]
+}

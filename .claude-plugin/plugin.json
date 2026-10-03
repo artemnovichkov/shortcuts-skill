@@ -1,0 +1,12 @@
+{
+  "name": "shortcuts",
+  "description": "List, view, and run macOS Shortcuts from Claude Code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Artem Novichkov"
+  },
+  "homepage": "https://github.com/artemnovichkov/shortcuts-skill",
+  "repository": "https://github.com/artemnovichkov/shortcuts-skill",
+  "license": "MIT",
+  "keywords": ["macos", "shortcuts", "automation"]
+}
